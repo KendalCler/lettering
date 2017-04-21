@@ -1,9 +1,18 @@
 /* Styling */
 
 body {
-    background: darkseagreen; 
+    background: #eff5ef; 
 }
 
 h1 {
-    color: mediumorchid;
+    color: black;
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: 6px;
+
+}
+
+span:nth-child(odd)  {
+    font-size: 2em;
+    color: #bf4d99;
 }
